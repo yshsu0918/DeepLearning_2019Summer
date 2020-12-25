@@ -11,6 +11,4 @@
 ![](https://i.imgur.com/w9HAPgc.png)
 
 
-## Lab2 : EEG-classfication
-
-
+## Lab3 Lab4 分數低，僅供參考XD
